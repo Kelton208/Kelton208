@@ -1,7 +1,10 @@
-### 소개합니다 👋
----
-안녕하세여! 켈튼입니다
+# Introduction👋
 
-주로 Java를 하고 C/C++를 배우고 있는 평범한 중학생입니다.
+Hello! I'm Kelton, doing Java or Kotlin.  
+I like coding, but I am just a junior programmer.  
+I am going to study other languages as well as frameworks or library of java and kotlin.  
+A few projects and libraries inclduing datality are pinned below.  
 
-잘부탁드립니다
+# 📈 GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Kelton208)
